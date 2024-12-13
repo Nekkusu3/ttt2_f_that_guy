@@ -30,7 +30,7 @@ SWEP.Secondary.Ammo = "none"
 
 SWEP.Base = "weapon_tttbase"
 
-SWEP.Icon = "VGUI/ttt/icon_f_that_guy.vtf" -- Corrected to explicitly use .vtf
+SWEP.Icon = "VGUI/ttt/icon_f_that_guy.vtf"
 
 -- Custom variables for our SWEP
 SWEP.Selecting = false
